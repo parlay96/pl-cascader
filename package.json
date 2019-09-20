@@ -1,0 +1,38 @@
+{
+  "_from": "pl-cascader@^1.0.2",
+  "_id": "pl-cascader@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-LSWdMDhqCxZqZpYoUvH+NzHUapU=",
+  "_location": "/pl-cascader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pl-cascader@^1.0.2",
+    "name": "pl-cascader",
+    "escapedName": "pl-cascader",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/pl-cascader/download/pl-cascader-1.0.2.tgz",
+  "_shasum": "2d259d30386a0b166a66962852f1fe3731d46a95",
+  "_spec": "pl-cascader@^1.0.2",
+  "_where": "E:\\workingFile\\web-project\\pc-erp",
+  "author": {
+    "name": "penglei"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "> 一个基于vue 的级联选择器 # method of use > npm i pl-cascader",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pl-cascader",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}

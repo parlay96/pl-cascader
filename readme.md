@@ -3,6 +3,11 @@
 # method of use
 > npm i pl-cascader
 
+> 引入
+import plCascader from 'pl-cascader' // 层级选择器
+Vue.use(plCascader) // 层级选择器
+
+
 # Attributes（属性）
         datas： tree树形数据 datas基本数据结构请查看： props配置选项
 
